@@ -1,6 +1,4 @@
-# 							    ConvRAG
-
-![image-20240513181359818](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240513181359818.png)
+# 							    ConvRAG: Boosting Conversational Question Answering with Fine-Grained Retrieval-Augmentation and Self-Check
 
 论文地址：https://arxiv.org/abs/2403.18243
 
